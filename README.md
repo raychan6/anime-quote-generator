@@ -6,5 +6,5 @@
 
 ## Future Directions
 
-- Get a random quote by anime title input by user
+- Get a random quote from anime title input by user
 - Create a web app or executable file with UI for a more interactive experience
